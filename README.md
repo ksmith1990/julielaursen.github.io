@@ -12,3 +12,4 @@
 1. Hello
 1. Hi
 1. Howdy
+2. Hi Julie, it's Karissa
